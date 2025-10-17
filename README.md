@@ -1,7 +1,8 @@
 # Noxen.nvim
 ## What Is Noxen?
 Noxen.nvim is a Neovim plugin designed for Neovim addicts and efficiency enthusiasts.
-It provides a user-friendly interface to create, search, and organize notes using tags and projects. With customizable templates and seamless integration with popular search tools like Snacks.nvim and Telescope.nvim, Noxen.nvim enhances your productivity by keeping your notes easily accessible within Neovim.
+It provides a user-friendly interface to create, search, and organize notes using tags and projects.
+With customizable templates and seamless integration with popular search tools like Snacks.nvim and Telescope.nvim, Noxen.nvim enhances your productivity by keeping your notes easily accessible within Neovim.
 
 
 ## 📦 Getting Started
@@ -137,4 +138,8 @@ require("noxen").setup({
 - [nui.nvim](https://github.com/MunifTanjim/nui.nvim)
 - [snacks.nvim](https://github.com/folke/snacks.nvim) or [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) (optional)
+
+## Note
+This README was translated from Japanese to English using an AI translation tool.
+Please note that the accuracy of the content is not guaranteed.
 
