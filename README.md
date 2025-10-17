@@ -10,7 +10,7 @@ It provides a user-friendly interface to create, search, and organize notes usin
 #### Using `opts` (recommended)
 ```lua
 {
-  "p2nthesilea/noxen.nvim",
+  "r7sqtr/noxen.nvim",
   dependencies = {
     "nvim-lua/plenary.nvim",
     "MunifTanjim/nui.nvim",
